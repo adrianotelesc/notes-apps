@@ -1,0 +1,12 @@
+[submodule "notes-flutter"]
+	path = notes-flutter
+	url = git@github.com:adrianotelesc/notes-flutter.git
+[submodule "notes-kmm"]
+	path = notes-kmm
+	url = git@github.com:adrianotelesc/notes-kmm.git
+[submodule "notes-ios"]
+	path = notes-ios
+	url = git@github.com:adrianotelesc/notes-ios.git
+[submodule "notes-android"]
+	path = notes-android
+	url = git@github.com:adrianotelesc/notes-android.git
